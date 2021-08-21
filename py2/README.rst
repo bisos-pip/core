@@ -74,12 +74,12 @@ Installation
 
 ::
 
-    sudo pip install bisos.examples
+   sudo pip install bisos.examples
 
 Usage
 =====
 
 ::
 
-    /usr/local/bin/icmStart.py
-    /usr/local/bin/icmExamples.py
+   /usr/local/bin/icmStart.py
+   /usr/local/bin/icmExamples.py
